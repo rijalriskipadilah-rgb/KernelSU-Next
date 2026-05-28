@@ -1,3 +1,4 @@
+https://github.com/KernelSU-Next/KernelSU-Next/issues/987#issuecomment-3674144274
 # Reporting Security Issues
 
 The KernelSU team and community take security bugs in KernelSU seriously. We appreciate your efforts to responsibly disclose your findings, and will make every effort to acknowledge your contributions.
